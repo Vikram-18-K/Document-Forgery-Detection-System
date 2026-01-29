@@ -1,0 +1,7 @@
+flask
+flask-cors
+tensorflow>=2.10
+numpy
+pillow
+gunicorn
+git

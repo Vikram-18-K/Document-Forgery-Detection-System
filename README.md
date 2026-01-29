@@ -1,1 +1,0 @@
-# Document-Forgery-Detection-System
